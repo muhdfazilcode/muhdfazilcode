@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+## 💻 About Me
+
+**Tawheed on Top ☝**  
+*Independent - System & App Troubleshooting Enthusiast 💻*  
+No manuals. No mentors. Just a low-end PC, persistence, and 1000+ problems solved.
+
+## 🔧 Tech Stack
+
+- Windows OS Internals · Troubleshooting & Optimization  
+- App Compatibility · Crash Debugging · System Tuning
+
+## 📫 Reach Me
+
+- Discord: muhd.fazil  
+- GitHub: [muhdfazilcode](https://github.com/muhdfazilcode)
+
+
 <!--
 **muhdfazilcode/muhdfazilcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
