@@ -8,7 +8,7 @@ No manuals. No mentors. Just a low-end PC, persistence, and 1000+ problems solve
 
 ## 🔧 Tech Stack
 
-- Windows OS Internals · Troubleshooting & Optimization  
+- OS Internals · Troubleshooting & Optimization  
 - App Compatibility · Crash Debugging · System Tuning
 
 ## 📫 Reach Me
